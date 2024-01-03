@@ -1,0 +1,25 @@
+======= PHYSICAL FITNESS ======
+time: 30:51
+
+also try 
+-> NFT marketplace (Build an AI powered movie appliation and master React) 
+-> Filmpire (Build an NFt market place and Dive into the world of web 3.0)
+
+RAPID 
+-excersiseDB
+- material ui is used to build beautiful user interfaces
+Stack :is a material ui components that manages the layout of the immediate  
+children alon the vertical or horizontal axis with optional spacing and  
+dividers between each child. e.g menu or list of items
+
+ TECHNOLOGIES USED
+-Rapid api
+
+ ======  NPM INSTALLATION ====
+ - npx create-react-app gym
+ - npm intall --legacy-peer-deps  
+
+
+
+
+ 
