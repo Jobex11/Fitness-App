@@ -1,5 +1,5 @@
 ======= PHYSICAL FITNESS ======
-time: 1:37:45
+time: 1:39:43
 
 also try 
 -> NFT marketplace (Build an AI powered movie appliation and master React) 
@@ -20,6 +20,10 @@ time: 36:40
 -> RapidAPi is actually free for 500 requests per months.
 Utils(utility function) -> these are the function that we woult be using across 
 our code base.
+
+
+===== EXERCISE DETAILS ====
+Time: 1:39:43
 
  TECHNOLOGIES USED
 -Rapid api
